@@ -28,11 +28,6 @@
             {
                 Console.WriteLine(game2);
             }
-
-            //Exercise 3
-
-
-
         }
     }
 }
